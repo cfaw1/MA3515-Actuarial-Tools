@@ -2,6 +2,7 @@
 
 An application with actuarial tools made using  [shiny](https://shiny.rstudio.com/) by [RStudio](https://rstudio.com/]).
 
+https://cfaw1.shinyapps.io/ma3515_actuarial_tools/
 
 ## Current features
 
