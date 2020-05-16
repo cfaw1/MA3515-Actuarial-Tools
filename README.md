@@ -1,6 +1,6 @@
 # MA3515 Actuarial Tools
 
-An application with actuarial tools made using  [shiny]([https://shiny.rstudio.com/](https://shiny.rstudio.com/)) by [RStudio]([https://rstudio.com/](https://rstudio.com/)).
+An application with actuarial tools made using  [shiny](https://shiny.rstudio.com/) by [RStudio](https://rstudio.com/]).
 
 
 ## Current features
@@ -18,12 +18,13 @@ An application with actuarial tools made using  [shiny]([https://shiny.rstudio.c
 ### Life contingencies
 * Life assurance present value
 * Life annuity present value
+
 ## Required packages
 ### shiny
-<[https://cran.r-project.org/web/packages/shiny/index.html]>
+https://cran.r-project.org/web/packages/shiny/index.html
 ### tidyverse
-<https://cran.r-project.org/web/packages/tidyverse/index.html>
+https://cran.r-project.org/web/packages/tidyverse/index.html
 ### actuar
-<https://cran.r-project.org/web/packages/actuar/index.html>
+https://cran.r-project.org/web/packages/actuar/index.html
 ### lifecontingencies
-<https://cran.r-project.org/web/packages/lifecontingencies/index.html","lifecontingencies>
+https://cran.r-project.org/web/packages/lifecontingencies/index.html","lifecontingencies
