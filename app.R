@@ -626,7 +626,7 @@ data(AM92Lt)
   
   output$discountFactor3 <- renderText(
     formatC(
-      discountRate(input$interest3/100) ^ (input$duration3 + input$defer3),
+      discountRate(input$interest3/100) ^ input$duration3,
       digits = 6,
       format = "f"
     )
