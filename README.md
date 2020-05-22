@@ -28,4 +28,4 @@ https://cran.r-project.org/web/packages/tidyverse/index.html
 ### actuar
 https://cran.r-project.org/web/packages/actuar/index.html
 ### lifecontingencies
-https://cran.r-project.org/web/packages/lifecontingencies/index.html","lifecontingencies
+https://cran.r-project.org/web/packages/lifecontingencies/index.html
